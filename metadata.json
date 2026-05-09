@@ -1,0 +1,6 @@
+{
+  "name": "AEGIES: AI Disaster Management System",
+  "description": "An AI-powered platform for automated damage detection, geospatial risk mapping, and obstruction-aware emergency routing for Bangalore, India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["mapping", "ai-analysis"]
+}
